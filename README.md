@@ -5,7 +5,7 @@
 O Orbix é um projeto desenvolvido com a finalidade de tornar as operações orbitais mais seguras, sustentáveis e eficientes. A proposta funciona com uma rede de pequenos satélites multifuncionais capazes de monitorar o espaço em tempo real, prever colisões,
 coletar detritos espaciais, reutilizar recursos e processar dados diretamente em órbita.
 
-## Objetivo da Solução
+## Objetivo
 
 O objetivo principal é demonstrar como tecnologias automotizadas podem contribuir para:
 
