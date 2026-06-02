@@ -68,12 +68,12 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
 
  ## Intruções de Execução
   
-   .Abrir o projeto
+   .Abrir o projeto:
   
-   .Iniciar simulação
-    Clique em: "Start Simulation"
+   .Iniciar simulação:
+    Clique em "Start Simulation"
 
-   .Testar o Sistema
+   .Testar o Sistema:
     Clique no sensor HC-SR04 e altere manualmente a distância para simular aproximação do lixo espacial.    
       
       •Distância maior que 30cm
