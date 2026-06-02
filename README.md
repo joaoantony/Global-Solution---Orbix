@@ -48,21 +48,21 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
 
 ## Estrutura do Circuito
 
-• Sensor HC-SR04
+• Sensor HC-SR04:
  -VCC  --> 5V
  -GND  --> GND
  -TRIG --> Pino 9 
  -ECHO --> Pino 10
 
-• LED Verde
+• LED Verde:
  -Ponto Positivo --> Resistor --> Pino 3
  -Ponto Negativo --> GND
 
-• LED Vermelho
+• LED Vermelho:
  -Ponto Positivo --> Resistor --> Pino 4
  -Ponto Negativo --> GND
 
-• Buzzer
+• Buzzer:
  -Pino 5
  -GND
 
