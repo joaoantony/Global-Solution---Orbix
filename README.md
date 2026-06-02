@@ -32,19 +32,19 @@ O objetivo principal é demonstrar como tecnologias automotizadas podem contribu
 Basicamente o sensor ultrassônico simula um radar orbital do satélite Orbix. Ele detecta objetos próximos e envia as informações ao arduino
 O arduino acaba processando os dados e classifica o nível de risco de acordo com a distância detectada:
 
-•Distância maior que 30cm
- -LED Verde acende
- -Sistema seguro
- -Sem alertas
-
-•Distância entre 10cm e 30cm
- -Buzzer intermitente
- -Alerta moderado
-
-•Distância menor que 10cm
- -LED Vermelha acende
- -Buzzer contínuo
- -Risco alto de colisão
+  •Distância maior que 30cm
+   -LED Verde acende
+   -Sistema seguro
+   -Sem alertas
+  
+  •Distância entre 10cm e 30cm
+   -Buzzer intermitente
+   -Alerta moderado
+  
+  •Distância menor que 10cm
+   -LED Vermelha acende
+   -Buzzer contínuo
+   -Risco alto de colisão
 
 ## Estrutura do Circuito
 
