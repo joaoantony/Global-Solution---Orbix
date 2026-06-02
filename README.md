@@ -75,6 +75,7 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
 
    .Testar o Sistema
     Clique no sensor HC-SR04 e altere manualmente a distância para simular aproximação do lixo espacial.    
+      
       •Distância maior que 30cm
        -LED Verde acende
        -Sistema seguro
