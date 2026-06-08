@@ -99,7 +99,7 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
  João Antony Fernandes Macedo Matos - RM569685
  Caio Palmeira Silva - RM571775
  Davi Dutra Yamamoto - RM569856
- Miguel Gomes - RM573812
+ Miguel Gomes Oliveira Pinheiro - RM573812
  Matheus Munhoz Polo dos Santos - RM570685
  
 
