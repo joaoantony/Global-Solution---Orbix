@@ -16,11 +16,11 @@ O objetivo principal é demonstrar como tecnologias automotizadas podem contribu
   -desenvolvimento de sistemas inteligentes para futuras missões espaciais.
 
 
-## Componetes Utilizados
+## Componentes Utilizados
 
    -Arduino Uno
    -LED Verde
-   -LED Vermelha
+   -LED Vermelho
    -Sensor Ultrassônico HC-SR04
    -2Resistores
    -Jumpers
@@ -42,7 +42,7 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
    -Alerta moderado
   
   •Distância menor que 10cm:
-   -LED Vermelha acende
+   -LED Vermelho acende
    -Buzzer contínuo
    -Risco alto de colisão
 
@@ -66,7 +66,7 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
  -Pino 5
  -GND
 
- ## Intruções de Execução
+ ## Instruções de Execução
   
    .Abrir o projeto:
   
@@ -86,7 +86,7 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
        -Alerta moderado
       
       •Distância menor que 10cm
-       -LED Vermelha acende
+       -LED Vermelho acende
        -Buzzer contínuo
        -Risco alto de colisão
   
@@ -95,11 +95,11 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
       aproximações de objetos espaciais.
 
 
- ## RM
- João Antony - RM569685
- Caio Palmeira - RM571775
- Davi Dutra - RM569856
+ ## Integrantes
+ João Antony Fernandes Macedo Matos - RM569685
+ Caio Palmeira Silva - RM571775
+ Davi Dutra Yamamoto - RM569856
  Miguel Gomes - RM573812
- Matheus Munhoz - RM570685
+ Matheus Munhoz Polo dos Santos - RM570685
  
 
