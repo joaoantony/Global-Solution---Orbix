@@ -68,11 +68,16 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
 
  ## Instruções de Execução
   
-1.Acesse o simulador Wokwi.  
+1.Acesse o simulador Wokwi. 
+
 2.Abra o projeto.   
+
 3.Clique em "Start Simulation".
+
 4.Clique no sensor ultrassônico HC-SR04.
+
 5.Altere a distância do objeto para testar os diferentes níveis de alerta.
+
 6.Observe o comportamento dos LEDs e do buzzer.
   
 #Observação:
