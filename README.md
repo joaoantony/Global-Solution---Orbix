@@ -68,29 +68,14 @@ O arduino acaba processando os dados e classifica o nível de risco de acordo co
 
  ## Instruções de Execução
   
-   .Abrir o projeto:
+1.Acesse o simulador Wokwi.  
+2.Abra o projeto.   
+3.Clique em "Start Simulation".
+4.Clique no sensor ultrassônico HC-SR04.
+5.Altere a distância do objeto para testar os diferentes níveis de alerta.
+6.Observe o comportamento dos LEDs e do buzzer.
   
-   .Iniciar simulação:
-    Clique em "Start Simulation"
-
-   .Testar o Sistema:
-    Clique no sensor HC-SR04 e altere manualmente a distância para simular aproximação do lixo espacial.    
-      
-      •Distância maior que 30cm
-       -LED Verde acende
-       -Sistema seguro
-       -Sem alertas
-      
-      •Distância entre 10cm e 30cm
-       -Buzzer intermitente
-       -Alerta moderado
-      
-      •Distância menor que 10cm
-       -LED Vermelho acende
-       -Buzzer contínuo
-       -Risco alto de colisão
-  
-  #Observação:
+#Observação:
       Como o projeto foi desenvolvido em um simulador virtual, a distância do sensor só pode ser alterada manualmente para representar diferentes
       aproximações de objetos espaciais.
 
